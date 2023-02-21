@@ -1,4 +1,3 @@
-
 """ This file contains methods which will format the data into JSON """
 import copy
 import datetime
